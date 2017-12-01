@@ -1,0 +1,129 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:25px;
+}
+#u0_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:25px;
+  background-color:#FFFF00;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:25px;
+}
+#u0_input.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:25px;
+  background-color:#FFFF00;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:768px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:768px;
+  height:30px;
+}
+#u0_input.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:768px;
+  height:30px;
+  background-color:#FFFF00;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+body.c {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1025px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.c {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1025px;
+  height:30px;
+}
+#u0_input.c {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1025px;
+  height:30px;
+  background-color:#FFFF00;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
